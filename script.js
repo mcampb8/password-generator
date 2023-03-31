@@ -106,10 +106,9 @@ function writePassword() {
       passArray.push(pass[final]);
     }
      password = passArray.join('');
-     console.log(password);
+     window.alert("Your new password is: " + password);
   }
-  var passText = document.querySelector("password");
-  passText.= password;
+  
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
