@@ -4,5 +4,8 @@ I used a combination of if/else statements and for loops to create this project.
 
 You can see my work here on Github at this link:
 
+https://mcampb8.github.io/password-generator/
 
 Additionally, this is a screenshot of my deployed, working password generator.
+
+![](2023-03-30-21-23-05.png)
